@@ -1,4 +1,3 @@
-[Dario Malkischer.pdf](https://github.com/user-attachments/files/20661356/Dario.Malkischer.pdf)
 # Project-Aura
 This repository contains all the documentation developed throughout the AURA project — a training-based initiative completed during my time at Foo Talent Group, focused on practical QA and software validation.
 
@@ -69,3 +68,7 @@ Here you can find a set of test cases created as part of the QA process for the 
 - Identified and reported key issues in the API, including **incorrectly implemented endpoints** that led to critical failures.
   
 - Maintained clear documentation and structured communication with the team, which supported faster debugging and resolution cycles throughout the QA process.
+
+## Certification 
+
+- [Certification FooTalentGroup](https://github.com/user-attachments/files/20661356/Dario.Malkischer.pdf)
