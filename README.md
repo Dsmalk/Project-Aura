@@ -70,5 +70,6 @@ Here you can find a set of test cases created as part of the QA process for the 
 - Maintained clear documentation and structured communication with the team, which supported faster debugging and resolution cycles throughout the QA process.
 
 ## Certification 
+![Certification AURA](FooTalent.jpg)
 
 - [Certification FooTalentGroup](https://github.com/user-attachments/files/20661356/Dario.Malkischer.pdf)
